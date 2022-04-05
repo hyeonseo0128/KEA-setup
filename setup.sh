@@ -7,6 +7,7 @@ sudo apt-get -y install nano
 sudo apt install -y nvidia-jetpack
 sudo apt-get install -y libopenblas-base libopenmpi-dev
 
+pip3 install --upgrade pip 
 pip3 install Cython
 pip3 install numpy
 
